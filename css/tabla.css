@@ -1,0 +1,10 @@
+td, th {
+		border: 2px solid black;
+		padding: 0.8rem;
+		}
+		table{
+		background:lightgreen;
+		border: 2px solid black;
+		}
+		h1{background:yellow}
+		body{background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXzKnxfdCg5oY2DcwF7TSfrU6JJXfE7Yh3F63znRUC1_V3EFWk")}
